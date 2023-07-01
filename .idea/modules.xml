@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Annotations/Annotations.iml" filepath="$PROJECT_DIR$/Annotations/Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arreglos/Arreglos.iml" filepath="$PROJECT_DIR$/Arreglos/Arreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Colecciones/Colecciones.iml" filepath="$PROJECT_DIR$/Colecciones/Colecciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommandLine/CommandLine.iml" filepath="$PROJECT_DIR$/CommandLine/CommandLine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateCalendarClass/DateCalendarClass.iml" filepath="$PROJECT_DIR$/DateCalendarClass/DateCalendarClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploFacturasOOP/EjemploFacturasOOP.iml" filepath="$PROJECT_DIR$/EjemploFacturasOOP/EjemploFacturasOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstructuraDatos/EstructuraDatos.iml" filepath="$PROJECT_DIR$/EstructuraDatos/EstructuraDatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlujosControl/FlujosControl.iml" filepath="$PROJECT_DIR$/FlujosControl/FlujosControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IntelliJ.iml" filepath="$PROJECT_DIR$/.idea/IntelliJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces_OOP/Interfaces_OOP.iml" filepath="$PROJECT_DIR$/Interfaces_OOP/Interfaces_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8_Lambda/Java8_Lambda.iml" filepath="$PROJECT_DIR$/Java8_Lambda/Java8_Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathClass/MathClass.iml" filepath="$PROJECT_DIR$/MathClass/MathClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_ClasesAbstractas/OOP_ClasesAbstractas.iml" filepath="$PROJECT_DIR$/OOP_ClasesAbstractas/OOP_ClasesAbstractas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Herencia/OOP_Herencia.iml" filepath="$PROJECT_DIR$/OOP_Herencia/OOP_Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Interfaces_Repository/OOP_Interfaces_Repository.iml" filepath="$PROJECT_DIR$/OOP_Interfaces_Repository/OOP_Interfaces_Repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operadores/Operadores.iml" filepath="$PROJECT_DIR$/Operadores/Operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Paquetes/Paquetes.iml" filepath="$PROJECT_DIR$/Paquetes/Paquetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patrones_Diseno/Patrones_Diseno.iml" filepath="$PROJECT_DIR$/Patrones_Diseno/Patrones_Diseno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SystemClass/SystemClass.iml" filepath="$PROJECT_DIR$/SystemClass/SystemClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValueVsReference/ValueVsReference.iml" filepath="$PROJECT_DIR$/ValueVsReference/ValueVsReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrapperClass/WrapperClass.iml" filepath="$PROJECT_DIR$/WrapperClass/WrapperClass.iml" />
+    </modules>
+  </component>
+</project>
